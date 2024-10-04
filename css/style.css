@@ -1,0 +1,253 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    height: 60px;
+    background-color: aliceblue;
+}
+.header img{
+    padding-top: 5px;
+}
+/* End of the session Header */
+.navbar{
+    height: 60px;
+    background-color: #4C4C4C;
+}
+.navbar span{
+    font-size: 15px;
+    color: white;
+    /* border: 1px solid white; */
+    /* background-color: black; */
+    height: 50px;
+    width: 100px;
+}
+.div1{
+   
+    padding: 10px 10px 10px 10px;
+   
+}
+/*  */
+
+.date-wedding{
+    background-image: url("../images/background/homeHero_1.jpg");
+    height: 450px;
+    background-size:cover;
+    color: aliceblue;
+    padding-top: 80px;
+    
+}
+.container date{
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+/* End of the session Date-Wedding */
+
+.love-story{
+    text-align: center;
+}
+.love-story h1{
+    font-size: 40px;
+    padding-top: 80px;
+    font-family: "Playfair Display",serif;
+
+    
+}
+.love-story img{
+    vertical-align: middle;
+    border-style: none;
+    width: 100%;
+    
+
+}
+/* End of the session Love-Story */
+
+.proposal{
+    background-image: url("../images/background/story2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 400px;
+   margin-top: 60px;
+   
+}
+.proposal h1{
+    font-family: "Playfair Display",serif;
+    text-align: center;
+    color: azure;
+    padding-top: 60px;
+  
+
+}
+.proposal p{
+    font-family:"Roboto",sans-serif;
+    text-align: justify;
+    color: azure;
+    padding-top: 20px;
+
+}
+.proposal-img img{
+    height: 400px;
+    width: 100%;
+    padding-top: 30px;
+}
+/* End of the session Proposal */
+.wedding-info{
+    background-image: url("..//images/background/section_bg1.png");
+     /* height: 300px;  */
+    width: 100%;
+    margin-top: 50px;
+
+}
+.wedding-info img{
+    vertical-align: middle;
+    border-style: none;
+    width: 100%;
+    
+
+}
+.wedding-info{
+    text-align: center;
+}
+.wedding-info h1{
+    font-size: 40px;
+    padding-top: 80px;
+    font-family: "Playfair Display",serif;
+
+    
+}
+.mobile{
+    height: 50px;
+    
+
+}
+.ceremony{
+    text-align: center;
+   
+    border: 1px solid red;
+    background-color: aliceblue;
+    margin-top: 20px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+} 
+.ceremony li{
+    list-style-type: none;
+    padding-top: 15px;
+}
+/* End of the Session Wedding */
+
+.days-hours{
+    background-image: url("..//images/background/section_bg3.png");
+    /* width: 80%; */
+    /* height: 400px; */
+    text-align: center;
+}
+.gallery-child-1{
+    width: 400px;
+    height: 420px;
+}
+.gallery-child-2{
+    width: 350px;
+    height: 420px;
+   
+}
+.gallery-child-4{
+    width: 350px;
+    height: 420px;
+}
+.gallery-child-3{
+    width: 400px;
+    height: 420px;
+}
+
+/* End of the sesion day hours */
+
+.best-gift{
+    background-image: url("..//images/background/image.png");
+    /* width: 100%; */
+    /* height: 300px; */
+    text-align: center;
+    color: white;
+}
+
+.best-gift h1{
+    font-size: 40px;
+    
+    padding-top: 80px;
+    font-family: "Playfair Display",serif;
+
+}
+/* End of the Session Best-Gift */
+     
+.form{
+    background-image: url("..//images/background/from-top.png");
+    text-align: center;
+    /* height: 500px; */
+}
+.front-top{
+    background-image: url("..//images/background/shape2.png");
+    background-repeat: no-repeat;
+    background-color: white;
+    /* width: 100%; */
+    /* height: 500px; */
+    border: 1px solid black;
+
+}
+.front-top h1{
+    font-size: 30px;
+    
+    /* padding-top: 80px; */
+    font-family: "Playfair Display",serif;
+
+}
+/* End of the session form */
+
+.registry-gift{
+    text-align: center;
+    
+}
+.registry-gift h1{
+    font-size: 40px;
+    padding-top: 80px;
+    font-family: "Playfair Display",serif;
+
+    
+}
+.registry-gift img{
+    vertical-align: middle;
+    border-style: none;
+    width: 100%;
+    
+
+
+}
+.grid-parent{
+    border: 1px solid black;
+    padding-bottom: 20px;
+}
+.picture-img{
+    /* height: 200px;
+    width: 350px; */
+}
+.picture{
+    width: 100%;
+}
+
+.picture-img img{
+    width: 90px;
+    height: 200px;
+    object-fit: cover;
+}
+/* End of the Session picture */
+
+.oops{
+    background-color: #E8EAED;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+/* End of the Session OOPS */
+.wed{
+    background-image: url("..//images/background/section_bg4.png");
+   /* height: 500px; */
+   color: white;
+}
